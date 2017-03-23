@@ -17,6 +17,8 @@ The data is made public, and IP addresses are linked to identfiers.
 
 https://dgramop.xyz/tracking/git.php
 
+## Privacy:
+
 If you would like your IP to be untracked, I reccomend adding submitting a pull request to whitelist.ips. Please create a newline and type in your IP.
 
 This may not untrack your IP everywhere, but it will untrack it on all new downloads of this repo (for those owners that chose to keep the default file)

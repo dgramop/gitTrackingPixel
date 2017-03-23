@@ -1,6 +1,7 @@
 # GitTracking Pixel
 
-![](gittracker.png)
+![GitTracker LOGO](gittracker.png)
+
 A simple image embed that can be added to github README's to track users
 
 ## Features:

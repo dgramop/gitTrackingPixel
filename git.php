@@ -25,7 +25,7 @@ function getSub()
 
 session_start();
 header("Content-Type: image/png");
-if(strpos($_SERVER["REMOTE_ADDR"])!==false)
+if(strpos( file_get_contents("whitelist.ips"), $_SERVER["REMOTE_ADDR"])!==false)
 {
   $img = imagecreate(155, 20);
   $background_color = imagecolorallocate($img, 0, 0, 0);

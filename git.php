@@ -25,7 +25,7 @@ function getSub()
 
 session_start();
 header("Content-Type: image/png");
-if($_SERVER["REMOTE_ADDR"]=="100.36.17.162")
+if(strpos($_SERVER["REMOTE_ADDR"])!==false)
 {
   $img = imagecreate(155, 20);
   $background_color = imagecolorallocate($img, 0, 0, 0);

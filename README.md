@@ -1,4 +1,4 @@
-# UNMAINTAINED! DO NOT USE
+# UNMAINTAINED, UNIFINSHED! DO NOT USE
 This is literally code from middle school. This is hacked together garbage and does not reflect my current abilities or security awareness. This is absolute garbage and is published soley for me to be able to look back on what code I've written and how I've grown. 
 
 My opinions about privacy and security have changed greatly since then, and I realize how invasive and obtrusive such a system could be if proplerly deployed. This code represents neither my ability nor my current (and much of my past) political beliefs.

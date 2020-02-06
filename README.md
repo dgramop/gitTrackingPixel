@@ -1,7 +1,9 @@
 # UNMAINTAINED! DO NOT USE
 This is literally code from middle school. This is hacked together garbage and does not reflect my current abilities or security awareness. This is absolute garbage and is published soley for me to be able to look back on what code I've written and how I've grown. 
 
-My opinions about privacy and security have changed greatly since then, and I realize how invasive and obtrusive such a system could be if proplerly deployed. This code represents neither my ability nor my current (and much of my past) political beliefs,
+My opinions about privacy and security have changed greatly since then, and I realize how invasive and obtrusive such a system could be if proplerly deployed. This code represents neither my ability nor my current (and much of my past) political beliefs.
+
+This repo was going to basically be an invasive version of an existing PHP tracking-pixel general purpose analytics tool that was for use on forums by forum users, emails and other web locations without any or sufficient HTML/JS embed capability and without image cacheing
 
 # GitTracking Pixel
 

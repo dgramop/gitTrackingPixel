@@ -1,3 +1,6 @@
+# UNMAINTAINED! DO NOT USE
+This is literally code from middle school. This is hacked together garbage and does not reflect my current abilities or security awareness. This is absolute garbage and is published soley for me to be able to look back on what code I've written and how I've grown.
+
 # GitTracking Pixel
 
 ![GitTracker LOGO](gittracker.png)
